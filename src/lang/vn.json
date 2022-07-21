@@ -1,0 +1,11 @@
+{
+  "sidebar": {
+    "product": "Sản phẩm",
+    "banner": "Banner",
+    "order": "Đơn hàng",
+    "user" : "Khách hàng"
+  },
+  "product" : {
+    "product": "Sản phẩm"
+  }
+}

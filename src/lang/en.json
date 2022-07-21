@@ -1,0 +1,11 @@
+{
+  "sidebar": {
+    "product": "Product",
+    "banner": "Banner",
+    "order": "Order",
+    "user" : "User"
+  },
+  "product" : {
+    "product": "Product"
+  }
+}
